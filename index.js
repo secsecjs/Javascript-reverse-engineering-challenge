@@ -1,4 +1,3 @@
-
 const flagInput = document.getElementById("flag")
 const checkButton = document.getElementById("check_flag")
 const correctFlag = document.getElementById("correct_flag")
