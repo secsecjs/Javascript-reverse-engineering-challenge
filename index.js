@@ -1,4 +1,4 @@
-// FLAG{7H3_D3V3L0P3R_700L5_4R3_5UP3R_H4CKY_1337_700L5}
+
 const flagInput = document.getElementById("flag")
 const checkButton = document.getElementById("check_flag")
 const correctFlag = document.getElementById("correct_flag")
